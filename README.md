@@ -1,0 +1,2 @@
+# Predicting-Telco-Customer-Churn-and-findings-from-data-analysis-Using-machine-learning.
+The Project research aims to estimate customer turnover and understand the demographic variations between churned and non-churned clients in order to analyze customer attrition at a telecoms company (Telco).  Businesses can reduce customer turnover by developing predictive models and recognizing the factors that affect it.
